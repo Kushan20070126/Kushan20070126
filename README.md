@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="font-size: 3em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Kushan Rnadika Herath</h1>
   <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
-    Freelance Software Engineer | Game Developer
+   Software Engineer | Game Developer
   </h4>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=41F734&width=435&lines=Hello%2C+I'm+Kushan+Randika%2C;+I+am+a+Software+Engineer%2C;+I+am+a++Game+Developer%2C;+I+am+a+Graphic+Programmer%2C;+I+am+a+Penetration+Tester%2C;+I+am+a+Web+Developer." alt="Typing SVG" /></a>
   <p style="max-width:600px; margin:auto; color:#555;">
