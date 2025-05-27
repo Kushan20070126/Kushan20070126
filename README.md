@@ -3,6 +3,7 @@
   <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
     Freelance Software Engineer | Game Developer
   </h4>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=41F734&width=435&lines=Hello%2C+I'm++Kushan+Randika+Herath%2C;+I+am+a+Software+Engineer%2C;Game+Developer%2C;Graphic+Programmer%2C;Penetration+Tester%2C" alt="Typing SVG" /></a>
   <p style="max-width:600px; margin:auto; color:#555;">
     I build scalable web applications and innovative IoT solutions that bridge hardware and software. Passionate about open source, mentoring, and continuous learning.
   </p>
