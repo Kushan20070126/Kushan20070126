@@ -181,4 +181,4 @@
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
-<p align="center">Credits: <a href="https://github.com/Kushan20070126">1999AZZAR</a></p>
+
