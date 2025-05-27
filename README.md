@@ -5,7 +5,7 @@
   </h4>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=41F734&width=435&lines=Hello%2C+I'm+Kushan+Randika%2C;+I+am+a+Software+Engineer%2C;+I+am+a++Game+Developer%2C;+I+am+a+Graphic+Programmer%2C;+I+am+a+Penetration+Tester%2C;+I+am+a+Web+Developer." alt="Typing SVG" /></a>
   <p style="max-width:600px; margin:auto; color:#555;">
-    I build scalable web applications and innovative IoT solutions that bridge hardware and software. Passionate about open source, mentoring, and continuous learning.
+    I'm a Software Engineer, Graphic Programmer, Game Developer, and Penetration Tester. I enjoy building creative software, designing games, exploring graphics, and testing systems for security.
   </p>
 </div>
 
