@@ -1,4 +1,5 @@
 <div align="center">
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
   <h1 style="font-size: 3em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Kushan Rnadika Herath</h1>
   <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
    Software Engineer | Game Developer
