@@ -46,46 +46,6 @@
   </div>
 </details>
 
-<!-- <details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">💻 GitHub Stats</summary>
-  <div align="center">
-    <table align="center">
-      <tr>
-        <td width="50%" align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=Kushan20070126&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats">
-        </td>
-        <td width="50%" align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=Kushan20070126&theme=gruvbox&hide_border=true" alt="Streak Stats">
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">🔍 Profile Insights</summary>
-  <div align="center">
-    <table align="center">
-      <tr>
-        <td align="center">
-          <img src="https://komarev.com/ghpvc/?username=Kushan20070126&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" style="height: 40px; margin: 0 10px;">
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" alt="Website Status" style="height: 40px; margin: 0 10px;">
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" alt="Page Build Status" style="height: 40px; margin: 10px;">
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" alt="License" style="height: 40px; margin: 10px;">
-        </td>
-      </tr>
-    </table>
-  </div>
-</details> -->
-
 <details>
   <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">📅 Recent Activity</summary>
   <div align="center">
