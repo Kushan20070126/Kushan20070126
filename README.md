@@ -103,7 +103,7 @@
   </tr>
   <tr>
     <td style="padding: 10px;">
-      <a href="https://devpost.com/1999AZZAR" target="_blank" style="text-decoration: none;">
+      <a href="https://devpost.com/Kushan20070126">
         <i class="fas fa-laptop-code" style="font-size: 40px; color: #3498db;"></i>
         <br>DevPost
       </a>
