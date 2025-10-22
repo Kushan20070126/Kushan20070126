@@ -77,18 +77,6 @@
       </a>
     </td>
     <td style="padding: 10px;">
-      <a href="https://github.com/lily-osp/" target="_blank" style="text-decoration: none;">
-        <i class="fa fa-github" style="font-size: 40px; color: #333;"></i>
-        <br>Lily Osp
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="https://wokwi.com/makers/my" target="_blank" style="text-decoration: none;">
-        <i class="fas fa-microchip" style="font-size: 40px; color: #3498db;"></i>
-        <br>Wokwi
-      </a>
-    </td>
-    <td style="padding: 10px;">
       <a href="https://www.hackerrank.com/profile/my" target="_blank" style="text-decoration: none;">
         <i class="fab fa-hackerrank" style="font-size: 40px; color: #2ecc71;"></i>
         <br>HackerRank
@@ -109,27 +97,9 @@
       </a>
     </td>
     <td style="padding: 10px;">
-      <a href="https://medium.com/@azzar_budiyanto" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-medium" style="font-size: 40px; color: #000;"></i>
-        <br>Medium
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="https://app.codecrafters.io/users/1999AZZAR" target="_blank" style="text-decoration: none;">
-        <i class="fas fa-code" style="font-size: 40px; color: #e74c3c;"></i>
-        <br>Codecrafters
-      </a>
-    </td>
-    <td style="padding: 10px;">
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="_blank" style="text-decoration: none;">
         <i class="fab fa-linkedin" style="font-size: 40px; color: #0077b5;"></i>
         <br>LinkedIn
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="https://twitter.com/siapa_hayosiapa" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-twitter" style="font-size: 40px; color: #1da1f2;"></i>
-        <br>X
       </a>
     </td>
   </tr>
