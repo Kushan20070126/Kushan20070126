@@ -46,7 +46,7 @@
   </div>
 </details>
 
-<details>
+<!-- <details>
   <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">💻 GitHub Stats</summary>
   <div align="center">
     <table align="center">
@@ -84,7 +84,7 @@
       </tr>
     </table>
   </div>
-</details>
+</details> -->
 
 <details>
   <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">📅 Recent Activity</summary>
