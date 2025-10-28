@@ -4,7 +4,7 @@
    Software Engineer | Game Developer
   </h4>
   <p style="max-width:600px; margin:auto; color:#555;">
-    I'm a Software Engineer, Graphic Programmer, Game Developer, and Penetration Tester. I enjoy building creative software, designing games, exploring graphics, and testing systems for security.
+    I'm a Software Engineer, Graphic Programmer, Game Developer. I enjoy building creative software, designing games, exploring graphics, and testing systems for security.
   </p>
 </div>
 
@@ -30,7 +30,7 @@
   <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">👤 About Me</summary>
   <div align="center">
     <ul style="list-style: none; padding: 0; text-align: left; max-width: 600px; margin: auto; color: #555;">
-      <li>🔹 <strong>Languages:</strong> JavaScript, TypeScript, Python, C/C++,Java,C#,SQL,</li>
+      <li>🔹 <strong>Languages:</strong> JavaScript, shell scripting, Python, C/C++, Java, C#, SQL,</li>
     </ul>
     <p>🔭 Currently developing a scalable e-commerce platform with integrated IoT monitoring.</p>
     <p>🌱 Learning microservices, cloud-native designs, and edge computing architectures.</p>
@@ -61,12 +61,12 @@
 <h5 style="color: #2e8b57; font-size: 1.4em;">🔗 Related Accounts</h5>
 <table align="center" style="border-collapse: collapse; text-align: center;">
   <tr>
-    <td style="padding: 10px;">
+    <!-- <td style="padding: 10px;">
       <a href="https://gist.github.com/Kushan20070126" target="_blank" style="text-decoration: none;">
         <i class="fa fa-github" style="font-size: 40px; color: #333;"></i>
         <br>Gist
       </a>
-    </td>
+    </td> -->
     <td style="padding: 10px;">
       <a href="https://www.hackerrank.com/profile/my" target="_blank" style="text-decoration: none;">
         <i class="fab fa-hackerrank" style="font-size: 40px; color: #2ecc71;"></i>
