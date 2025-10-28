@@ -10,13 +10,6 @@
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
-<div align="center">
-  <a href="https://1999azzar.github.io/Kushan20070126/" target="_blank">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="Logo"
-         style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
-  </a>
-</div>
-
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
 <details>
