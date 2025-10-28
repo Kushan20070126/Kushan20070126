@@ -88,10 +88,9 @@
       </a>
     </td>
     <td style="padding: 10px;">
-      <a href="https://www.linkedin.com/in/kushan-randika-herath-5a3b39352/" target="_blank">
-      <a href="" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-linkedin" style="font-size: 40px; color: #0077b5;"></i>
-        <br>LinkedIn
+      <a href="https://www.linkedin.com/in/kushan-randika-herath-5a3b39352/">
+        <i class="fas fa-laptop-code" style="font-size: 40px; color: #3498db;"></i>
+        <br>Linkedin
       </a>
     </td>
   </tr>
