@@ -17,15 +17,10 @@
       <li>🔹 <strong>Languages:</strong> JavaScript, Shell Scripting, Python, C/C++, Java, C#, SQL</li>
       <li>🧠 <strong>Core Skills:</strong> Game Development, Graphics Programming, Software Architecture, System Optimization</li>
     </ul>
-
     <p>🔭 <strong>Current Project – Flux:</strong> Developing <b>Flux</b>, a next-generation <b>high-level programming language</b> designed for <b>fast GPU access</b> and <b>AAA-quality game development</b> — merging high-level simplicity with low-level performance.</p>
-
     <p>🏨 <strong>Also Working On – CeylonStay:</strong> Building <b>CeylonStay</b>, a smart and modern <b>Bording booking platform</b> for Sri Lanka, focusing on seamless UI, real-time booking, and personalized experiences powered by scalable backend systems.</p>
-
     <p>🎮 Created a <b>custom 3D Multipalyer Game (Unity)</b> featuring an optimized rendering, battle royale games</p>
-
     <p>🌐 Exploring <b>UI/UX redesigns for Sril Lanka GOV Pages</b> to enhance user experience, accessibility, and design flow.</p>
-
     <p>🌱 Continuously learning <b>microservices</b>, <b>cloud-native design</b>, and <b>edge computing architectures</b>.</p>
   </div>
 </details>
