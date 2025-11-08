@@ -4,7 +4,7 @@
    Software Engineer | Game Developer | Graphics Programmer
   </h4>
   <p style="max-width:600px; margin:auto; color:#555;">
-    I'm a Software Engineer, Graphics Programmer, and Game Developer who enjoys building creative software, designing immersive games, exploring graphics, and testing systems for performance and security.
+    I'm a Software Engineer, Graphics Programmer, and Game Developer who enjoys building creative software, designing immersive games, exploring computer graphics, and testing systems for performance and security.
   </p>
 </div>
 
@@ -17,11 +17,16 @@
       <li>🔹 <strong>Languages:</strong> JavaScript, Shell Scripting, Python, C/C++, Java, C#, SQL</li>
       <li>🧠 <strong>Core Skills:</strong> Game Development, Graphics Programming, Software Architecture, System Optimization</li>
     </ul>
+
     <p>🔭 <strong>Current Project – Flux:</strong> Developing <b>Flux</b>, a next-generation <b>high-level programming language</b> designed for <b>fast GPU access</b> and <b>AAA-quality game development</b> — merging high-level simplicity with low-level performance.</p>
-    <p>💡 Also working on a <b>scalable e-commerce platform</b> with <b>integrated IoT monitoring</b> and real-time analytics.</p>
-    <p>🎮 Built a <b>custom 2D Snake Game (Java)</b> with optimized rendering architecture and smooth loop performance.</p>
-    <p>🌐 Exploring <b>UI/UX redesigns for Daraz.lk</b> to enhance user experience and accessibility.</p>
-    <p>🌱 Learning microservices, cloud-native design, and edge computing architectures.</p>
+
+    <p>🏨 <strong>Also Working On – CeylonStay:</strong> Building <b>CeylonStay</b>, a smart and modern <b>Bording booking platform</b> for Sri Lanka, focusing on seamless UI, real-time booking, and personalized experiences powered by scalable backend systems.</p>
+
+    <p>🎮 Created a <b>custom 3D Multipalyer Game (Unity)</b> featuring an optimized rendering, battle royale games</p>
+
+    <p>🌐 Exploring <b>UI/UX redesigns for Sril Lanka GOV Pages</b> to enhance user experience, accessibility, and design flow.</p>
+
+    <p>🌱 Continuously learning <b>microservices</b>, <b>cloud-native design</b>, and <b>edge computing architectures</b>.</p>
   </div>
 </details>
 
