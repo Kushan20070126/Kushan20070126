@@ -68,10 +68,6 @@
   </div>
 </details>
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;"> 👾 Fun Time Play Game</summary>
-  
-</details>
 
  <details onclick="Playsound()">
   <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;"> 👾 Fun Time Play Game</summary>
