@@ -1,5 +1,5 @@
 <div align="center">
-  <link rel="stylesheet" href="https://raw.githubusercontent.com/Kushan20070126/simple-card-game-/main/style.css">
+  <link rel="stylesheet" href="style.css">
   <h1 style="font-size: 3em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Kushan Randika Herath</h1>
   <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
    Software Engineer | Game Developer | Graphics Programmer
@@ -121,6 +121,5 @@
 <p align="center" style="font-size: 1.1em; color: #555;">
 ⭐ <em>“Code creatively. Build boldly. Optimize endlessly.”</em>
 </p>
-<script src="https://raw.githubusercontent.com/Kushan20070126/simple-card-game-/main/script.js"></script>
-
+<script src="script.js"></script>
 
