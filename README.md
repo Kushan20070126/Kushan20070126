@@ -1,4 +1,5 @@
 <div align="center">
+  <link rel="stylesheet" href="https://github.com/Kushan20070126/simple-card-game-/blob/main/style.css">
   <h1 style="font-size: 3em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Kushan Randika Herath</h1>
   <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
    Software Engineer | Game Developer | Graphics Programmer
@@ -66,6 +67,26 @@
     </a>
   </div>
 </details>
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
+<details>
+  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;"> 👾 Fun Time Play Game</summary>
+  
+</details>
+
+ <details onclick="Playsound()">
+  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;"> 👾 Fun Time Play Game</summary>
+    
+  <div class="game-box">
+    <h3 class="score">Score: <span id="score">0</span></h3>
+    <h4 style="color: aliceblue;" id="desc">Please press Play Buttotn Then You can play</h4>
+    <button class="play-btn-neon" onclick="play()"  id="play">▶ Play</button>
+    <h2 id="result"></h2>
+    <h3 id="message"></h3>
+    <div id="game-box"></div>
+    <button class="genarate" onclick="Game()" id="genaratecard">Genatate Card</button>
+    <button id="restart" onclick="restart()">Restart</button>
+  </div>
+</details>
 
 <h5 style="color: #2e8b57; font-size: 1.4em;">🔗 Related Accounts</h5>
 <table align="center" style="border-collapse: collapse; text-align: center;">
@@ -104,3 +125,5 @@
 <p align="center" style="font-size: 1.1em; color: #555;">
 ⭐ <em>“Code creatively. Build boldly. Optimize endlessly.”</em>
 </p>
+<script src="https://github.com/Kushan20070126/simple-card-game-/blob/main/script.js"></script>
+
