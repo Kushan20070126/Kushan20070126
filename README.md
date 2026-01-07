@@ -2,7 +2,7 @@
 # ஹெச்.எம்.குஷான் ரண்டிக ஹேரத்
 # H.M. Kushan Randika Herath
 
-<img align="right" src="https://github.com/yourusername.png" width="150" style="border-radius: 50%;" />
+<img align="right" src="https://github.com/Kushan20070126.png" width="150" style="border-radius: 50%;" />
 
 I help organisations use AI that actually works. I take messy data, make it useful, and build systems that improve real decisions. I split my time between Sri Lanka and the Bay Area, and I invest in founders building practical AI. Before this I built large scale AI systems at Facebook.
 
@@ -17,7 +17,7 @@ I help organisations use AI that actually works. I take messy data, make it usef
     <td><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/></td>
     <td><strong>LinkedIn</strong></td>
     <td>Professional Information, Employment History & Education</td>
-    <td><a href="https://linkedin.com/in/yourusername">Visit Profile</a></td>
+    <td><a href="https://linkedin.com/in/Kushan20070126">Visit Profile</a></td>
   </tr>
   <tr>
     <td><img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="20"/></td>
@@ -29,7 +29,7 @@ I help organisations use AI that actually works. I take messy data, make it usef
     <td><img src="https://cdn.simpleicons.org/github/181717" width="20"/></td>
     <td><strong>GitHub</strong></td>
     <td>Open Source Code, Analysis, & Hobby Projects</td>
-    <td><a href="https://github.com/yourusername">Visit Profile</a></td>
+    <td><a href="https://github.com/Kushan20070126">Visit Profile</a></td>
   </tr>
   <tr>
     <td><img src="https://cdn.simpleicons.org/medium/000000" width="20"/></td>
@@ -67,9 +67,9 @@ I help organisations use AI that actually works. I take messy data, make it usef
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kushan20070126&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushan20070126&layout=compact&theme=dark)
 
 ---
 
@@ -96,5 +96,5 @@ I help organisations use AI that actually works. I take messy data, make it usef
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Kushan20070126&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
