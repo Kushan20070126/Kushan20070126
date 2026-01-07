@@ -23,7 +23,7 @@ A technology learner focused on Linux, Kubernetes, and networking. Enjoys experi
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kushan20070126&show_icons=true&theme=dark)
 
@@ -31,26 +31,24 @@ A technology learner focused on Linux, Kubernetes, and networking. Enjoys experi
 
 ---
 
-## 💼 Recent Work
-
-- 🤖 Building AI systems that solve real business problems
-- 📊 Working with messy data to extract actionable insights
-- 🚀 Investing in practical AI startups
-- 🌏 Bridging technology between Sri Lanka and Silicon Valley
+## Recent Work
+Recently working on Linux server administration, Kubernetes cluster deployment, and container-based application setups.
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 
 - Artificial Intelligence & Machine Learning
 - Data Engineering & Analytics
 - Product Development
-- Technology Investment
+- Learning Linux internals & system services
+- Containerization & networking concepts
+- Building real-world DevOps skills
 
 ---
 
 <p align="center">
-  <i>Open to collaborations on practical AI projects that make a difference</i>
+  <i>Open to collaborations on practical Linux, Kubernetes, and DevOps projects that solve real-world problems.</i>
 </p>
 
 <p align="center">
