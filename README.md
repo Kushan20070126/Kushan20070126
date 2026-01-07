@@ -1,110 +1,100 @@
-<div align="center">
-  <h1 style="font-size: 3em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Kushan Randika Herath</h1>
-  <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
-   Software Engineer | Game Developer | Graphics Programmer
-  </h4>
-  <p style="max-width:600px; margin:auto; color:#555;">
-    I'm a Software Engineer, Graphics Programmer, and Game Developer who enjoys building creative software, designing immersive games, exploring computer graphics, and testing systems for performance and security.
-  </p>
-</div>
+# එච්.එම්.කුෂාන් රන්දික හේරත්
+# ஹெச்.எம்.குஷான் ரண்டிக ஹேரத்
+# H.M. Kushan Randika Herath
 
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
+<img align="right" src="https://github.com/yourusername.png" width="150" style="border-radius: 50%;" />
 
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">👤 About Me</summary>
-  <div align="center">
-    <ul style="list-style: none; padding: 0; text-align: left; max-width: 600px; margin: auto; color: #555;">
-      <li>🔹 <strong>Languages:</strong> JavaScript, Shell Scripting, Python, C/C++, Java, C#, SQL</li>
-      <li>🧠 <strong>Core Skills:</strong> Game Development, Graphics Programming, Software Architecture, System Optimization</li>
-    </ul>
-    <p>🔭 <strong>Current Project – Flux:</strong> Developing <b>Flux</b>, a next-generation <b>high-level programming language</b> designed for <b>fast GPU access</b> and <b>AAA-quality game development</b> — merging high-level simplicity with low-level performance.</p>
-    <p>🏨 <strong>Also Working On – CeylonStay:</strong> Building <b>CeylonStay</b>, a smart and modern <b>Bording booking platform</b> for Sri Lanka, focusing on seamless UI, real-time booking, and personalized experiences powered by scalable backend systems.</p>
-    <p>🎮 Created a <b>custom 3D Multipalyer Game (Unity)</b> featuring an optimized rendering, battle royale games</p>
-    <p>🌐 Exploring <b>UI/UX redesigns for Sril Lanka GOV Pages</b> to enhance user experience, accessibility, and design flow.</p>
-    <p>🌱 Continuously learning <b>microservices</b>, <b>cloud-native design</b>, and <b>edge computing architectures</b>.</p>
-  </div>
-</details>
+I help organisations use AI that actually works. I take messy data, make it useful, and build systems that improve real decisions. I split my time between Sri Lanka and the Bay Area, and I invest in founders building practical AI. Before this I built large scale AI systems at Facebook.
 
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
+<br clear="right"/>
 
+---
 
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">📫 Contact Me</summary>
-  <div align="center">
-    <p>
-      <a href="mailto:kushanrandikaherath@outlook.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 30px; margin: 0 5px;">
-      </a>
-      <a href="https://www.linkedin.com/in/kushan-randika-herath-5a3b39352/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px; margin: 0 5px;">
-      </a>
-      <a href="https://github.com/Kushan20070126" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height: 30px; margin: 0 5px;">
-      </a>
-    </p>
-  </div>
-</details>
+## 🔗 Connect With Me
 
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
-
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">📅 Recent Activity</summary>
-  <div align="center">
-    <a href="https://github.com/Kushan20070126" target="_blank">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushan20070126&theme=github-compact&hide_border=true" alt="Activity Graph" style="border-radius: 10px; margin: 0 5px;">
-    </a>
-  </div>
-</details>
-
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
-
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">💖 Support Me</summary>
-  <div align="center">
-    <p>If you’d like to support my work, you can donate via PayPal:</p>
-    <a href="https://paypal.me/my" target="_blank">
-      <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal" alt="PayPal Donation" style="height: 40px; margin: 0 5px;">
-    </a>
-  </div>
-</details>
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
-
-<h5 style="color: #2e8b57; font-size: 1.4em;">🔗 Related Accounts</h5>
-<table align="center" style="border-collapse: collapse; text-align: center;">
+<table>
   <tr>
-    <td style="padding: 10px;">
-      <a href="https://www.hackerrank.com/profile/my" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-hackerrank" style="font-size: 40px; color: #2ecc71;"></i>
-        <br>HackerRank
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="https://codepen.io/my" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-codepen" style="font-size: 40px; color: #000;"></i>
-        <br>CodePen
-      </a>
-    </td>
+    <td><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/></td>
+    <td><strong>LinkedIn</strong></td>
+    <td>Professional Information, Employment History & Education</td>
+    <td><a href="https://linkedin.com/in/yourusername">Visit Profile</a></td>
   </tr>
   <tr>
-    <td style="padding: 10px;">
-      <a href="https://devpost.com/Kushan20070126" target="_blank">
-        <i class="fas fa-laptop-code" style="font-size: 40px; color: #3498db;"></i>
-        <br>DevPost
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="https://www.linkedin.com/in/kushan-randika-herath-5a3b39352/" target="_blank">
-        <i class="fas fa-user-tie" style="font-size: 40px; color: #3498db;"></i>
-        <br>LinkedIn
-      </a>
-    </td>
+    <td><img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="20"/></td>
+    <td><strong>Google Scholar</strong></td>
+    <td>Academic Papers, Patents & Citations</td>
+    <td><a href="https://scholar.google.com/citations?user=yourid">Visit Profile</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/github/181717" width="20"/></td>
+    <td><strong>GitHub</strong></td>
+    <td>Open Source Code, Analysis, & Hobby Projects</td>
+    <td><a href="https://github.com/yourusername">Visit Profile</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/medium/000000" width="20"/></td>
+    <td><strong>Medium</strong></td>
+    <td>Long-Form Articles on Technology, Business, Economics, Arts & Philosophy</td>
+    <td><a href="https://medium.com/@yourusername">Visit Profile</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/substack/FF6719" width="20"/></td>
+    <td><strong>Substack</strong></td>
+    <td>Newer Articles. Same as Medium, but without Paywall</td>
+    <td><a href="https://yourusername.substack.com">Visit Profile</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/x/000000" width="20"/></td>
+    <td><strong>X (formerly Twitter)</strong></td>
+    <td>Comments & Summaries of all the above at @nuuuwan</td>
+    <td><a href="https://x.com/nuuuwan">Visit Profile</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/youtube/FF0000" width="20"/></td>
+    <td><strong>YouTube</strong></td>
+    <td>Videos on Technology, Business, Economics, Arts & Philosophy</td>
+    <td><a href="https://youtube.com/@yourusername">Visit Channel</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/soundcloud/FF3300" width="20"/></td>
+    <td><strong>SoundCloud</strong></td>
+    <td>Mostly Piano Minatures</td>
+    <td><a href="https://soundcloud.com/yourusername">Visit Profile</a></td>
   </tr>
 </table>
 
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
+---
 
-<p align="center" style="font-size: 1.1em; color: #555;">
-⭐ <em>“Code creatively. Build boldly. Optimize endlessly.”</em>
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+---
+
+## 💼 Recent Work
+
+- 🤖 Building AI systems that solve real business problems
+- 📊 Working with messy data to extract actionable insights
+- 🚀 Investing in practical AI startups
+- 🌏 Bridging technology between Sri Lanka and Silicon Valley
+
+---
+
+## 🎯 Focus Areas
+
+- Artificial Intelligence & Machine Learning
+- Data Engineering & Analytics
+- Product Development
+- Technology Investment
+
+---
+
+<p align="center">
+  <i>Open to collaborations on practical AI projects that make a difference</i>
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
