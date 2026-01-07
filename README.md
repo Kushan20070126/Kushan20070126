@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/Kushan20070126.png" width="150" style="border-radius: 50%;" />
 
-I help organisations use AI that actually works. I take messy data, make it useful, and build systems that improve real decisions. I split my time between Sri Lanka and the Bay Area, and I invest in founders building practical AI. Before this I built large scale AI systems at Facebook.
+A technology learner focused on Linux, Kubernetes, and networking. Enjoys experimenting with servers, breaking things, and fixing them to learn how systems really work.
 
 <br clear="right"/>
 
@@ -18,48 +18,6 @@ I help organisations use AI that actually works. I take messy data, make it usef
     <td><strong>LinkedIn</strong></td>
     <td>Professional Information, Employment History & Education</td>
     <td><a href="https://linkedin.com/in/Kushan20070126">Visit Profile</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="20"/></td>
-    <td><strong>Google Scholar</strong></td>
-    <td>Academic Papers, Patents & Citations</td>
-    <td><a href="https://scholar.google.com/citations?user=yourid">Visit Profile</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/github/181717" width="20"/></td>
-    <td><strong>GitHub</strong></td>
-    <td>Open Source Code, Analysis, & Hobby Projects</td>
-    <td><a href="https://github.com/Kushan20070126">Visit Profile</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/medium/000000" width="20"/></td>
-    <td><strong>Medium</strong></td>
-    <td>Long-Form Articles on Technology, Business, Economics, Arts & Philosophy</td>
-    <td><a href="https://medium.com/@yourusername">Visit Profile</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/substack/FF6719" width="20"/></td>
-    <td><strong>Substack</strong></td>
-    <td>Newer Articles. Same as Medium, but without Paywall</td>
-    <td><a href="https://yourusername.substack.com">Visit Profile</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/x/000000" width="20"/></td>
-    <td><strong>X (formerly Twitter)</strong></td>
-    <td>Comments & Summaries of all the above at @nuuuwan</td>
-    <td><a href="https://x.com/nuuuwan">Visit Profile</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/youtube/FF0000" width="20"/></td>
-    <td><strong>YouTube</strong></td>
-    <td>Videos on Technology, Business, Economics, Arts & Philosophy</td>
-    <td><a href="https://youtube.com/@yourusername">Visit Channel</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/soundcloud/FF3300" width="20"/></td>
-    <td><strong>SoundCloud</strong></td>
-    <td>Mostly Piano Minatures</td>
-    <td><a href="https://soundcloud.com/yourusername">Visit Profile</a></td>
   </tr>
 </table>
 
