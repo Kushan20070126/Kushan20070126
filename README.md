@@ -17,7 +17,7 @@ A technology learner focused on Linux, Kubernetes, and networking. Enjoys experi
     <td><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/></td>
     <td><strong>LinkedIn</strong></td>
     <td>Professional Information, Employment History & Education</td>
-    <td><a href="https://linkedin.com/in/Kushan20070126">Visit Profile</a></td>
+    <td><a href="https://www.linkedin.com/in/kushan-randika-herath-5a3b39352/">Visit Profile</a></td>
   </tr>
 </table>
 
