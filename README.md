@@ -1,7 +1,3 @@
-
-
-# එච්.එම්.කුෂාන් රන්දික හේරත්
-# ஹெச்.எம்.குஷான் ரண்டிக ஹேரத்
 # H.M. Kushan Randika Herath
 
 <img align="right" src="https://github.com/Kushan20070126.png" width="150" style="border-radius: 50%;" />
