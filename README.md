@@ -45,7 +45,7 @@ I am always open to discussing system architecture, Linux internals, or collabor
 
 | Platform | Link | Description |
 | :--- | :--- | :--- |
-| <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/> | **[LinkedIn](https://www.linkedin.com/in/kushan-randika-herath-5a3b39352/)** | Professional history, education, and networking. |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushan-randika-herath-5a3b39352/) | **[Kushan Herath](https://www.linkedin.com/in/kushan-randika-herath-5a3b39352/)** | Professional history, education, and networking. |
 | <img src="https://cdn.simpleicons.org/minutemailer/333333" width="20"/> | **Email** | *kushanrandikaherath@outlook.com* |
 
 <br>
