@@ -1,64 +1,54 @@
 # H.M. Kushan Randika Herath
+<img align="right" src="https://github.com/Kushan20070126.png" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
-<img align="right" src="https://github.com/Kushan20070126.png" width="150" style="border-radius: 50%;" />
+**Software Engineer | Computer Science Student | Cloud-Native Enthusiast**
 
-A technology learner focused on Linux, Kubernetes, and networking. Enjoys experimenting with servers, breaking things, and fixing them to learn how systems really work.
+I am a backend-focused Software Engineer specializing in microservices architecture, cloud-native infrastructure, and applied AI. I thrive on building scalable systems, automating deployments, and bridging the gap between software and hardware to solve real-world problems.
 
 <br clear="right"/>
 
 ---
 
-## 🔗 Connect With Me
-
-<table>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/></td>
-    <td><strong>LinkedIn</strong></td>
-    <td>Professional Information, Employment History & Education</td>
-    <td><a href="https://www.linkedin.com/in/kushan-randika-herath-5a3b39352/">Visit Profile</a></td>
-  </tr>
-</table>
+##  Current Focus & Engineering Pursuits
+- **Backend & Architecture:** Architecting resilient, microservices-based platforms using **Spring Boot** and **FastAPI**.
+- **DevOps & Infrastructure:** Managing vanilla **Kubernetes** clusters, containerizing applications with **Docker**, and implementing **GitOps** workflows.
+- **Applied AI & Edge Computing:** Integrating local AI models (like YOLO and llama.cpp) and building automated hardware/robotics solutions using **Arduino** and **ESP32**.
+- **Game Server Orchestration:** Exploring low-latency networking and dedicated server scaling for multiplayer environments.
 
 ---
 
-## Languages & Technologies
+##  Technical Arsenal
 
-### Programming Languages
+### Backend & Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Cloud-Native & DevOps
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Server Setup](https://img.shields.io/badge/Server_Setup-4D4D4D?style=for-the-badge&logo=serverfault&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Hardware, Game Dev & Databases
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## Recent Work
-Recently working on Linux server administration, Kubernetes cluster deployment, and container-based application setups.
+##  Let's Connect
 
----
+I am always open to discussing system architecture, Linux internals, or collaborating on open-source DevOps and backend projects.
 
-## Focus Areas
+| Platform | Link | Description |
+| :--- | :--- | :--- |
+| <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/> | **[LinkedIn](https://www.linkedin.com/in/kushan-randika-herath-5a3b39352/)** | Professional history, education, and networking. |
+| <img src="https://cdn.simpleicons.org/minutemailer/333333" width="20"/> | **Email** | *kushanrandikaherath@outlook.com* |
 
-- Artificial Intelligence & Machine Learning
-- Data Engineering & Analytics
-- Product Development
-- Learning Linux internals & system services
-- Containerization & networking concepts
-- Building real-world DevOps skills
-
----
-
-<p align="center">
-  <i>Open to collaborations on practical Linux, Kubernetes, and DevOps projects that solve real-world problems.</i>
-</p>
-
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kushan20070126&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
