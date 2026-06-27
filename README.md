@@ -11,8 +11,8 @@ I am a backend-focused Software Engineer specializing in microservices architect
 
 ##  Current Focus & Engineering Pursuits
 - **Backend & Architecture:** Architecting resilient, microservices-based platforms using **Spring Boot** and **FastAPI**.
-- **DevOps & Infrastructure:** Managing vanilla **Kubernetes** clusters, containerizing applications with **Docker**, and implementing **GitOps** workflows.
-- **Applied AI & Edge Computing:** Integrating local AI models (like YOLO and llama.cpp) and building automated hardware/robotics solutions using **Arduino** and **ESP32**.
+- **DevOps & Infrastructure:** Managing  **Kubernetes** clusters, containerizing applications with **Docker**, and implementing **GitOps** workflows.
+- **Applied AI & Edge Computing:** Integrating local AI models and building automated hardware/robotics solutions using **Arduino** and **ESP32**.
 - **Game Server Orchestration:** Exploring low-latency networking and dedicated server scaling for multiplayer environments.
 
 ---
