@@ -1,7 +1,5 @@
 I am a backend-focused Software Engineer specializing in microservices architecture, cloud-native infrastructure, and applied AI. I thrive on building scalable systems, automating deployments, and bridging the gap between software and hardware to solve real-world problems.
-
-<br clear="right"/>
-
+---
 ##  " What I know ? "
 
 ### Languages
