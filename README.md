@@ -1,4 +1,5 @@
 I am a backend-focused Software Engineer specializing in microservices architecture, cloud-native infrastructure, and applied AI. I thrive on building scalable systems, automating deployments, and bridging the gap between software and hardware to solve real-world problems.
+
 ---
 ##  " What I know ? "
 
@@ -37,12 +38,3 @@ I am a backend-focused Software Engineer specializing in microservices architect
 ![OracleSQL](https://img.shields.io/badge/OracleSQL-C74634?style=for-the-badge&logo=OracleSQL&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-3776AB?style=for-the-badge&logo=MSSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-
----
-
-##  Let's Connect
-
-I am always open to discussing system architecture, Linux internals, or collaborating on open-source DevOps and backend projects.
