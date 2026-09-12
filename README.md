@@ -33,7 +33,7 @@ I am a backend-focused Software Engineer specializing in microservices architect
 
 ### Game Dev
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
-![Tiled](https://img.shields.io/badge/tiled-70c040?style=for-the-badge&logo=tiled&logoColor=white) 
+![Tiled](https://img.shields.io/badge/tiled-7B42BC?style=for-the-badge&logo=tiled&logoColor=white) 
 ![libGDX](https://img.shields.io/badge/libGDX-e74a45?style=for-the-badge&logo=libGDX&logoColor=white)
 ![Direx11](https://img.shields.io/badge/Direx11-737373?style=for-the-badge&logo=Direx11&logoColor=white)
 
