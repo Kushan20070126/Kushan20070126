@@ -3,7 +3,10 @@ I am a backend-focused Software Engineer specializing in microservices architect
 ---
 ##  " What I know ? "
 
-### Languages
+<details>
+  <summary><b>Languages</b></summary>
+<br>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-D34516?style=for-the-badge&logo=rust&logoColor=white)
@@ -14,7 +17,12 @@ I am a backend-focused Software Engineer specializing in microservices architect
 ![Js](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-006BB6?style=for-the-badge&logo=HCL&logoColor=white)
 
-### Frameworks 
+</details>
+
+<details>
+  <summary><b>Frameworks</b></summary>
+<br>
+  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-D53F8C?style=for-the-badge&logo=axum&logoColor=white)
@@ -22,26 +30,48 @@ I am a backend-focused Software Engineer specializing in microservices architect
 ![Sveltekit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
 
+</details>
 
-### DevOps tools
+
+<details>
+  <summary><b>DevOps tools</b></summary>
+<br>
+  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Hardware
+</details>
+
+<details>
+  <summary><b>Hardware</b></summary>
+<br>
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Game Dev
+</details>
+
+<details>
+  <summary><b>Game Dev</b></summary>
+<br>
+  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 ![Tiled](https://img.shields.io/badge/tiled-7B42BC?style=for-the-badge&logo=tiled&logoColor=white) 
 ![libGDX](https://img.shields.io/badge/libGDX-e74a45?style=for-the-badge&logo=libGDX&logoColor=white)
 ![Direx11](https://img.shields.io/badge/Direx11-737373?style=for-the-badge&logo=Direx11&logoColor=white)
 
-### Databases 
+</details>
+
+<details>
+  <summary><b>Databases</b></summary>
+<br>
+  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![OracleSQL](https://img.shields.io/badge/OracleSQL-C74634?style=for-the-badge&logo=OracleSQL&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-3776AB?style=for-the-badge&logo=MSSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</details>
 
 Additionally now I'm currently learning Linux internal (Kernel internal sys calls ) and WinAPI(Windows NT kernel API calls) and Windows Direx11 graphics programming.
